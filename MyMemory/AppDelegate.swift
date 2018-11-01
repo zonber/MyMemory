@@ -11,12 +11,20 @@ import CoreData
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
+    
+    //le
+    
     var window: UIWindow?
+    
+    var memolist = [MemoData]() // 메모 데이터를 저장할 배열
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+        //스플래시 구현
+        Thread.sleep(forTimeInterval: 2.0)
+        
         return true
     }
 

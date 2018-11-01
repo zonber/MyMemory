@@ -8,6 +8,13 @@
 
 import UIKit
 
-class MemoCell: UITableViewCall {
-
+class MemoCell: UITableViewCell {
+    
+    
+    @IBOutlet var contents: UILabel!
+    @IBOutlet var subject: UILabel!
+    @IBOutlet var regdate: UILabel!
+    @IBOutlet var img: UIImageView!
+    
+    
 }

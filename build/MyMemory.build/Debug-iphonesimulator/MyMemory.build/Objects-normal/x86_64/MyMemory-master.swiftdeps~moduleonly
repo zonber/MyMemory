@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "fa93552168b2d11307152f97c04ad530"
+build_time: [1540948887, 991967000]
+inputs:
+  "/Users/user/Documents/ios/MyMemory/MemoListVC.swift": [1540865718, 0]
+  "/Users/user/Documents/ios/MyMemory/MemoReadVC.swift": [1539779880, 0]
+  "/Users/user/Documents/ios/MyMemory/MemoData.swift": [1539763260, 0]
+  "/Users/user/Documents/ios/MyMemory/MemoFormVC.swift": [1540475565, 0]
+  "/Users/user/Documents/ios/MyMemory/MyMemory/AppDelegate.swift": [1540473070, 0]
+  "/Users/user/Documents/ios/MyMemory/MemoCell.swift": [1539837263, 0]
+  "/Users/user/Documents/ios/MyMemory/build/MyMemory.build/Debug-iphonesimulator/MyMemory.build/DerivedSources/CoreDataGenerated/MyMemory/Memo+CoreDataClass.swift": [1540948802, 0]
+  "/Users/user/Documents/ios/MyMemory/build/MyMemory.build/Debug-iphonesimulator/MyMemory.build/DerivedSources/CoreDataGenerated/MyMemory/Memo+CoreDataProperties.swift": [1540948802, 0]
+  "/Users/user/Documents/ios/MyMemory/build/MyMemory.build/Debug-iphonesimulator/MyMemory.build/DerivedSources/CoreDataGenerated/MyMemory/MyMemory+CoreDataModel.swift": [1540948802, 0]
